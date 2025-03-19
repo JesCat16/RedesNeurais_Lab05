@@ -1,1 +1,1 @@
-# RedesNeurais_Lab05
+# Dados do experimento estão na wiki do repositório
